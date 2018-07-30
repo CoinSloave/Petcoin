@@ -1,6 +1,7 @@
 // Copyright (c) 2014-2018, The Monero Project
 // Copyright (c) 2014-2018, The Aeon Project
 // Copyright (c) 2018, The TurtleCoin Developers
+// Copyright (c) 2018, Petcoin Project
 //
 // All rights reserved.
 //

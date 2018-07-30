@@ -1,3 +1,8 @@
+// Copyright (c) 2012-2017, The CryptoNote developers, The Bytecoin developers
+// Copyright (c) 2014-2018, The Monero Project
+// Copyright (c) 2018, The TurtleCoin Developers
+// Copyright (c) 2018, Petcoin Project
+//
 // Word list originally created by dabura667 and released under The MIT License (MIT)
 //
 // The MIT License (MIT)

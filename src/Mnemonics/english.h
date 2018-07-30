@@ -1,5 +1,8 @@
+// Copyright (c) 2012-2017, The CryptoNote developers, The Bytecoin developers
 // Copyright (c) 2014-2018, The Monero Project
-// 
+// Copyright (c) 2018, The TurtleCoin Developers
+// Copyright (c) 2018, Petcoin Project
+//
 // All rights reserved.
 // 
 // Redistribution and use in source and binary forms, with or without modification, are

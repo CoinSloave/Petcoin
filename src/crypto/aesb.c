@@ -1,6 +1,10 @@
 /*
 ---------------------------------------------------------------------------
-Copyright (c) 1998-2013, Brian Gladman, Worcester, UK. All rights reserved.
+// Copyright (c) 2012-2017, The CryptoNote developers, The Bytecoin developers
+// Copyright (c) 2014-2018, The Monero Project
+// Copyright (c) 2018, The TurtleCoin Developers
+// Copyright (c) 2018, Petcoin Project
+// Copyright (c) 1998-2013, Brian Gladman, Worcester, UK. All rights reserved.
 
 The redistribution and use of this software (with or without changes)
 is allowed without the payment of fees or royalties provided that:

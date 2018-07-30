@@ -1,5 +1,9 @@
 /*
- * The blake256_* and blake224_* functions are largely copied from
+// Copyright (c) 2012-2017, The CryptoNote developers, The Bytecoin developers
+// Copyright (c) 2014-2018, The Monero Project
+// Copyright (c) 2018, The TurtleCoin Developers
+// Copyright (c) 2018, Petcoin Project
+// The blake256_* and blake224_* functions are largely copied from
  * blake256_light.c and blake224_light.c from the BLAKE website:
  *
  *     http://131002.net/blake/
