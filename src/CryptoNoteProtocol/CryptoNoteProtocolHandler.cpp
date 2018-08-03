@@ -595,15 +595,13 @@ bool CryptoNoteProtocolHandler::on_connection_synchronized() {
       logger(INFO, WHITE) << " If you need more assistance, visit the #HELP channel in the Petcoin Discord Chat - http://chat.pet-coin.net" << ENDL ;
       logger(INFO, BRIGHT_MAGENTA) << "===================================================" << ENDL << ENDL ;
 
-      logger(INFO, BRIGHT_GREEN) <<
+      logger(INFO, BRIGHT_BLUE) <<
 
       #ifdef _WIN32
-      "\n       _____     _            _       \n"
-              "|  __ \   | |          (_)      \n"
-              "| |__) |__| |_ ___ ___  _ _ __  \n"
-              "|  ___/ _ \ __/ __/ _ \| | '_ \ \n"
-              "| |  |  __/ || (_| (_) | | | | |\n"
-              "|_|   \___|\__\___\___/|_|_| |_|\n" << ENDL;
+      "\n                                             \n"
+              "+-+-+-+-+-+-+-+\n"
+              "|P|e|t|c|o|i|n|\n"
+              "+-+-+-+-+-+-+-+\n" << ENDL;
       #else
       "\n                                                                            \n"
         "██████╗ ██████╗████████╗ █████╗ █████╗  ██╗ ███╗   ██╗\n"
